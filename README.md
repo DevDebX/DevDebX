@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Debjit Das
+# ⭐About Me:
 **I'm a beginner Software Engineer passionate about learning programming and building small projects.
 Currently exploring C++, Java and Python while improving my problem-solving skills.**
 
